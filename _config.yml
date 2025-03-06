@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zongyu Li"
-description              : "Incoming PhD student at The University of Leeds "
+description              : "University of Leeds Master's students "
 repository               : "Zongyuu-Li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zongyu Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "https://drive.google.com/file/d/1mE5G_75lupfEeubHLCo8m31SSiCj4U59/view?usp=drive_link"
   bio              : "University of Leeds"
   location         : "Leeds, UK"
   employer         :
