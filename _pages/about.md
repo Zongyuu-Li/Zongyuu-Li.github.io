@@ -85,13 +85,26 @@ My research interests include service design, user experience design, web design
   - Product Design/UX Design/ Data Analyze/Branding
   - Design statement: For many families, it is convenient to choose to use disposable diapers, andthere are already non-disposable diapers on the market, but they have notbecome the first choice for more families due to insufficient convenience. Somy design is to make reusable diapers easier to use in an environmentallyfriendly way.
   - Core function :Instructions for wrapping diapers/ Child excrement monitoring technology/Usersuse incentive mechanisms
+
 - *2024.04 - 2024.06*, Crystal Emotions
   - Projection display: Tear collection and labeling, Art generation, Emotion recognition and generation, Projection display, Emotional Tears Display Box
   - Design statement: Crystal Emotions aims to explore the diversity of human emotional expressionthrough a combination of technology and art, By analyzing users' tear crystals, itnot only provides a new way to identify emotions, but also shows the rich connotation of emotions in a unigue and artistic way. This project is not only a demonstration of technology, but also a deep reflection on emotion and art, aiming to guidepeople to understand and express their emotions more deeply.
+
 - *2024.05 - 2024.08*, SHELL PARADISE
   - Sandbox adventure game, Mobile + tablet games
   - Design statement: It's a sandbox adventure game on a small coastal island inhabited by a variety ofhermit crabs with limited resources, unpredictable weather, and some competition,such as octopuses, seagulls, and more. However, islands are also affected by tideswhich can bring abundance and scarcity of resources. Players take on the role ofhermit crab and must survive in an ever-changing environment, finding their sheand balancing competition and cooperation.
+
 - *2024.05 - 2024.08*, The HPV Defense War
   - Board game
   - Game Rule: The use of male body parts map, players walk inside the body, HPV ca.mpand virus camp confrontation, including skill cards, age turntable cards.science task cards, ete. Used to increase the game's strateey and sciencedesign unique skills, such as infection spread, virus removal, ete., toincrease the game's strategic and entertainment.
   - Design statement: This proiect aims to communicate scientific knowledge about HPV(human papillomavirus) and vaccination to youngpeople in a fun way through boardgames andrelated support materials.Through the interactive and entertaining nature ofthe game, to stimulateyouth's interest in health issues, especially the awareness ofHPV vaccination.in order to encourage them to vaccinateat the appropriate age to protect theirhealth.
+
+- *2024.10 - 2024.12*, On enhancing Wikipedia's page design
+  - Web design
+  - Design statement: Redesigned the Wikipedia page on The Beatles, going step-by-step in three areas: function and presentation, text and image-driven layout, and color palette.
+
+- *2024.11 - 2025.01*, [An academic assistant app that helps users gradually](https://drive.google.com/file/d/1_LrYToL6nAQzBBHuPEN29M57C3dNAWec/view?usp=drive_link)
+grow and unleash their potential in their studies
+  - App design/UI design
+  - Design statement: The “Focus&Grow” app was created with the goal of improving the user's learning efficiency and self-discipline creation, while focusing on usability and visual appeal. And wanting to differentiate itself from other similar apps, it was a process that focused on thinking about how to bring tangible user needs to fruition.
+  - [I made a video of the interactive jump, which can be viewed by clicking on this link]([https://drive.google.com/file/d/1_gsVX9FYGjx6ag472Bn_Yfosvd4-86NV/view?usp=drive_link](https://drive.google.com/file/d/1_LrYToL6nAQzBBHuPEN29M57C3dNAWec/view?usp=drive_link))
