@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a Masters student at the University of Leeds（2024-2025）. [The University of Leeds][https://www.leeds.ac.uk/], [Ma Design](https://courses.leeds.ac.uk/a672/design-ma)). 
+I am now a Masters student at the University of Leeds(2024-2025).[The University of Leeds](https://www.leeds.ac.uk) [Ma Design](https://courses.leeds.ac.uk/a672/design-ma). 
 
 My research interests include service design, user experience design, web design, ui/ux design, and design thinking. The main courses are design strategy, interaction design, sustainable design, user research.
 
