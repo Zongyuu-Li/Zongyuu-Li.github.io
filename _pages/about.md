@@ -99,7 +99,7 @@ My research interests include service design, user experience design, web design
   - Game Rule: The use of male body parts map, players walk inside the body, HPV ca.mpand virus camp confrontation, including skill cards, age turntable cards.science task cards, ete. Used to increase the game's strateey and sciencedesign unique skills, such as infection spread, virus removal, ete., toincrease the game's strategic and entertainment.
   - Design statement: This proiect aims to communicate scientific knowledge about HPV(human papillomavirus) and vaccination to youngpeople in a fun way through boardgames andrelated support materials.Through the interactive and entertaining nature ofthe game, to stimulateyouth's interest in health issues, especially the awareness ofHPV vaccination.in order to encourage them to vaccinateat the appropriate age to protect theirhealth.
 
-- *2024.10 - 2024.12*, On enhancing Wikipedia's page design
+- *2024.10 - 2024.12*, [On enhancing Wikipedia's page design](https://drive.google.com/file/d/1IdU1fdEOGYL5IHJRdqCNUgjyJlvqpwxz/view?usp=drive_link)
   - Web design
   - Design statement: Redesigned the Wikipedia page on The Beatles, going step-by-step in three areas: function and presentation, text and image-driven layout, and color palette.
 
