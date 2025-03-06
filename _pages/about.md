@@ -103,8 +103,8 @@ My research interests include service design, user experience design, web design
   - Web design
   - Design statement: Redesigned the Wikipedia page on The Beatles, going step-by-step in three areas: function and presentation, text and image-driven layout, and color palette.
 
-- *2024.11 - 2025.01*, [An academic assistant app that helps users gradually](https://drive.google.com/file/d/1_LrYToL6nAQzBBHuPEN29M57C3dNAWec/view?usp=drive_link)
-grow and unleash their potential in their studies
+- *2024.11 - 2025.01*, [An academic assistant app that helps users gradually grow and unleash their potential in their studies](https://drive.google.com/file/d/1_LrYToL6nAQzBBHuPEN29M57C3dNAWec/view?usp=drive_link)
+
   - App design/UI design
   - Design statement: The “Focus&Grow” app was created with the goal of improving the user's learning efficiency and self-discipline creation, while focusing on usability and visual appeal. And wanting to differentiate itself from other similar apps, it was a process that focused on thinking about how to bring tangible user needs to fruition.
   - [I made a video of the interactive jump, which can be viewed by clicking on this link]([https://drive.google.com/file/d/1_gsVX9FYGjx6ag472Bn_Yfosvd4-86NV/view?usp=drive_link](https://drive.google.com/file/d/1_LrYToL6nAQzBBHuPEN29M57C3dNAWec/view?usp=drive_link))
