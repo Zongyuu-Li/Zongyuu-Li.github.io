@@ -1,4 +1,4 @@
----
+33---
 permalink: /
 title: ""
 excerpt: ""
@@ -81,20 +81,20 @@ My research interests include service design, user experience design, web design
 - Language: Mandarin, English, Japanese
 
 # 📔 Portfolio
-- *2024.02 - 2024.05*, Futura Fit Diaper
+- *2024.02 - 2024.05*, [Futura Fit Diaper](https://drive.google.com/file/d/1DVK9gqwB19GskRj4eC-G9NY5qhzxKDR-/view?usp=drive_link)
   - Product Design/UX Design/ Data Analyze/Branding
   - Design statement: For many families, it is convenient to choose to use disposable diapers, andthere are already non-disposable diapers on the market, but they have notbecome the first choice for more families due to insufficient convenience. Somy design is to make reusable diapers easier to use in an environmentallyfriendly way.
   - Core function :Instructions for wrapping diapers/ Child excrement monitoring technology/Usersuse incentive mechanisms
 
-- *2024.04 - 2024.06*, Crystal Emotions
+- *2024.04 - 2024.06*, [Crystal Emotions](https://drive.google.com/file/d/1K89KfhJATQ44p_ZR-vXz6p8iwlaPgvDB/view?usp=drive_link)
   - Projection display: Tear collection and labeling, Art generation, Emotion recognition and generation, Projection display, Emotional Tears Display Box
   - Design statement: Crystal Emotions aims to explore the diversity of human emotional expressionthrough a combination of technology and art, By analyzing users' tear crystals, itnot only provides a new way to identify emotions, but also shows the rich connotation of emotions in a unigue and artistic way. This project is not only a demonstration of technology, but also a deep reflection on emotion and art, aiming to guidepeople to understand and express their emotions more deeply.
 
-- *2024.05 - 2024.08*, SHELL PARADISE
+- *2024.05 - 2024.08*, [SHELL PARADISE](https://drive.google.com/file/d/1eh3Bav3qfpgFuJk90Y1LwzIZBo2g2gIE/view?usp=drive_link)
   - Sandbox adventure game, Mobile + tablet games
   - Design statement: It's a sandbox adventure game on a small coastal island inhabited by a variety ofhermit crabs with limited resources, unpredictable weather, and some competition,such as octopuses, seagulls, and more. However, islands are also affected by tideswhich can bring abundance and scarcity of resources. Players take on the role ofhermit crab and must survive in an ever-changing environment, finding their sheand balancing competition and cooperation.
 
-- *2024.05 - 2024.08*, The HPV Defense War
+- *2024.05 - 2024.08*, [The HPV Defense War](https://drive.google.com/file/d/1dyEaIJDyWACK0aseu_Gb4eU0Wfd4zzmZ/view?usp=drive_link)
   - Board game
   - Game Rule: The use of male body parts map, players walk inside the body, HPV ca.mpand virus camp confrontation, including skill cards, age turntable cards.science task cards, ete. Used to increase the game's strateey and sciencedesign unique skills, such as infection spread, virus removal, ete., toincrease the game's strategic and entertainment.
   - Design statement: This proiect aims to communicate scientific knowledge about HPV(human papillomavirus) and vaccination to youngpeople in a fun way through boardgames andrelated support materials.Through the interactive and entertaining nature ofthe game, to stimulateyouth's interest in health issues, especially the awareness ofHPV vaccination.in order to encourage them to vaccinateat the appropriate age to protect theirhealth.
